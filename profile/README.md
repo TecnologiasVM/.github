@@ -1,6 +1,9 @@
 <div align="center">
 
-# Tecnologías VM
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://tecnologiasvm.com/img/brand/logo-dark.svg" width="380">
+  <img src="https://raw.githubusercontent.com/TecnologiasVM/.github/main/profile/img/logo-light.svg" width="380" alt="Tecnologías VM">
+</picture>
 
 **Software studio · Costa Rica · since 2018**
 
